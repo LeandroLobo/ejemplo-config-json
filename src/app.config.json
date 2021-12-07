@@ -1,0 +1,4 @@
+{
+  "baseUrl": "localhost:8888/api",
+  "title": "Título desde archivo estático"
+}
